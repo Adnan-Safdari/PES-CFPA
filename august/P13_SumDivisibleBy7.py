@@ -9,7 +9,6 @@ print(sum(list(range(105, 201, 7))))
 startRange = 100
 endRange = 200
 
-
 # Getting list of numbers between 100 and 200
 numbers = []
 while startRange < endRange:
