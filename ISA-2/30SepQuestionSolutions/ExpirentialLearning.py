@@ -4,7 +4,7 @@ BCA-A SEMESTER 1
 PES1UG24CA006
 """
 
-# Storing user input in a variable to perform string manipulationv 
+# Storing user input in a variable to perform string manipulation
 my_string = str(input("Enter a String: "))
 
 """
